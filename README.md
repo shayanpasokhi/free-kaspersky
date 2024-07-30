@@ -68,7 +68,7 @@ docker run --rm --network none -v /path/to/scan:/scan:ro shayanpasokhi/free-kasp
 ### database
 
 -   **Type:** String
--   **Description:** The timestamp of the database used for the scan, indicating its currency.
+-   **Description:** The timestamp of the database used for the scan.
 
 ### error
 
